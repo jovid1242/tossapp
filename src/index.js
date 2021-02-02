@@ -2,6 +2,7 @@ import './scss/index.scss'
 
 
 const button = document.getElementById('rotateButton')
+const roateText = document.getElementById('roateText')
 const coin = document.getElementById('coin')
 
 const rotateN = n => {
@@ -15,7 +16,7 @@ const rotateN = n => {
 
 const randomRotate = () => {
     const randomNumber = Math.floor(Math.random() * 10)
-
+    roateText.innerHTML = `Монет переворачиваеться ${randomNumber} раз`
     rotateN(randomNumber)
 }
 
