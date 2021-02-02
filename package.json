@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/jovid1242/tossapp.git"
   },
-  "homepage": "https://github.com/jovid1242/tossapp.git",
+  "homepage": "http://jovid1242.github.io/tossapp",
   "private": true,
   "browserslist": "> 0.25%, not dead",
   "devDependencies": {
