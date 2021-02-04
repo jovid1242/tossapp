@@ -1,8 +1,8 @@
 $coin-diameter: 300px;
 $coin-thickness: 20px;
 $coin-color: #bbb792;
-$coin-front: "https://lh3.googleusercontent.com/proxy/xT2Vx6S_qk3ygsW5k7IhMo94xFXG6k6qC3R_bsN-64qz0iFfMZOvOcv9xH7_ojYjsOR4SLcP_dPpc70wPkYB3F9Ej7wlgzr8Y62v3u0n0ktqIQVY-IL55MPoFHBwEaYCUUzLNkoywKM1yLwPMAkfce1zeeiQZZgZp9Ff-zVgduw";
-$coin-back: "https://lh3.googleusercontent.com/proxy/Of-399UI5xdKsfnT_9MNg0_TFmNmaE2hW686hhLbYA6Txo704RuBeEdtAq8401SLeLsuA80_DFB14AIzJjiUMYtI95dMhPpVOmuMLlKv5uasvSrNRgLux_J18_FZ04q4u2HDm1yN2OuEAHV8q80rsUnkP90xJx6eFznViRMuCA";
+$coin-front: "http://privivka.api.apicreativity.site/img/coin_front.png";
+$coin-back: "http://privivka.api.apicreativity.site/img/coin_back.png";
 $edge-faces: 80;
 $edge-face-length: 3.14*$coin-diameter/$edge-faces;
 $turn-time: 8s;
